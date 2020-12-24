@@ -1,3 +1,7 @@
+//FEATURE:
+//- Each user can post their own notes and choose a category (Backlog, In Progress, Peer Review, In Test, Done, and Blocked).
+//  Validate the note must be alphanumeric only. Each user can only edit or delete their own notes. Announced notes will be shown at the top. 
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
