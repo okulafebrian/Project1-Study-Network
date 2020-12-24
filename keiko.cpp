@@ -1,3 +1,10 @@
+//FEATURE:
+//- There are 2 features in the main menu: register user to the database or log the user in by filling in their credentials. 
+//- The logged-on user’s menu should display his/her friends and the management feature: Add Friend, Remove Friend, View Inbox, View Sent Request, and Logout.  
+
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
