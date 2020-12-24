@@ -1,3 +1,8 @@
+//FEATURE:
+//- User can leave a comment (alphanumeric, 1 to 255 letters) on other user’s notes and user can like the comment. Comments are sorted based on the likes and time when posted.
+//- User can set their notes to “private” so that only approved users (maximum of 3) can see their notes. When giving access, user must type in the username. When a user get an invitation to access the notes, the user can choose to accept or reject it. 
+
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
