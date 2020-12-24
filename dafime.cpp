@@ -1,3 +1,6 @@
+//FEATURE:
+//- Login a user by his/her username and password. Validate the username and password are correct. 
+
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
