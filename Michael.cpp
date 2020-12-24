@@ -1,5 +1,5 @@
 //FEATURE:
-//- User can recover their deleted notes. Please validate the recycle bin is not empty and the note is in there. 
+//- User can recover their deleted notes. Please validate the recycle bin is not empty and the note is in there
 
 #include <stdio.h>
 #include <string.h>
