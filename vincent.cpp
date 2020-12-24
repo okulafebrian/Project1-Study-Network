@@ -1,3 +1,7 @@
+//FEATURE:
+//- View Inbox: all the user's request that the user has not accepted yet. 
+//- View Sent Request: show all the user's sent request that are still pending. 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
