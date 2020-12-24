@@ -45,6 +45,7 @@ void sortLike(int n)
     }
 }
 
+
 int main(void)
 {
     int i = 0;
