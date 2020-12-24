@@ -1,3 +1,7 @@
+//FEATURE:
+//- Add Friend: list all available user that could be sent a friend request. 
+//- Remove Friend: remove a user friend from his/her friend list. 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
