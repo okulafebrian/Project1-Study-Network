@@ -1,3 +1,7 @@
+//FEATURE:
+//- Selecting one of the choices should give easiness of use. 
+//- When the user log out, output how long the user has used the application. 
+
 #include<stdio.h>
 int main(){
     int select, select2;
